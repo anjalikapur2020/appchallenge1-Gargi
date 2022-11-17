@@ -7,7 +7,7 @@ var gameState="wait"
 
 function preload(){
 waitimg=loadImage("assets/SplashScreen.gif")
-level1startimg=loadImage("/assets/buttons/level1start.jpg")
+level1startimg=loadImage("assets/buttons/level1start.jpg")
 //poplevel1img=loadImage("assets/poplevel1.gif")
 }
 
